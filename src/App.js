@@ -37,6 +37,7 @@ function Addcolor({color}){
   }
   return(
     <div style={styles}>
+      
 
     </div>
   )
